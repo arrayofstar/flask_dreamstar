@@ -1,0 +1,1 @@
+User {{ user.username }} has joined.  使用txt形式发送
